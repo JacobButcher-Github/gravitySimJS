@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/osarukun/repos/gravitySim/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
