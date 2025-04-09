@@ -1,4 +1,0 @@
-/home/osarukun/repos/gravitySim/build/CMakeFiles/glad.dir
-/home/osarukun/repos/gravitySim/build/CMakeFiles/gravitySim.dir
-/home/osarukun/repos/gravitySim/build/CMakeFiles/edit_cache.dir
-/home/osarukun/repos/gravitySim/build/CMakeFiles/rebuild_cache.dir

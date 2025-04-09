@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/gravitySim.dir/link.d CMakeFiles/gravitySim.dir/src/gravity_sim.cpp.o -o gravitySim  /usr/lib/libglfw.so.3.4 libglad.a /usr/lib/libGLX.so /usr/lib/libOpenGL.so
